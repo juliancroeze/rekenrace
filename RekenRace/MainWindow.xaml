@@ -1,0 +1,18 @@
+﻿<Window x:Class="MathQuiz.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Math Quiz" Height="350" Width="525">
+    <Grid>
+        <StackPanel HorizontalAlignment="Center" VerticalAlignment="Center">
+            <TextBlock Text="Voer je naam in:" Margin="5"/>
+            <TextBox x:Name="txtName" Margin="5"/>
+            <TextBlock Text="Selecteer moeilijkheidsgraad:" Margin="5"/>
+            <ComboBox x:Name="cmbDifficulty" Margin="5">
+                <ComboBoxItem Content="Eenvoudig"/>
+                <ComboBoxItem Content="Gemiddeld"/>
+                <ComboBoxItem Content="Moeilijk"/>
+            </ComboBox>
+            <Button Content="Start" Click="Start_Click" Margin="5"/>
+        </StackPanel>
+    </Grid>
+</Window>

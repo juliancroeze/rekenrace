@@ -1,0 +1,17 @@
+C:\Users\Julian\source\repos\RekenRace\RekenRace\bin\Debug\RekenRace.exe.config
+C:\Users\Julian\source\repos\RekenRace\RekenRace\bin\Debug\RekenRace.exe
+C:\Users\Julian\source\repos\RekenRace\RekenRace\bin\Debug\RekenRace.pdb
+C:\Users\Julian\source\repos\RekenRace\RekenRace\obj\Debug\RekenRace.csproj.AssemblyReference.cache
+C:\Users\Julian\source\repos\RekenRace\RekenRace\obj\Debug\RekenRace.csproj.SuggestedBindingRedirects.cache
+C:\Users\Julian\source\repos\RekenRace\RekenRace\obj\Debug\MainWindow.baml
+C:\Users\Julian\source\repos\RekenRace\RekenRace\obj\Debug\MainWindow.g.cs
+C:\Users\Julian\source\repos\RekenRace\RekenRace\obj\Debug\App.g.cs
+C:\Users\Julian\source\repos\RekenRace\RekenRace\obj\Debug\RekenRace_MarkupCompile.cache
+C:\Users\Julian\source\repos\RekenRace\RekenRace\obj\Debug\RekenRace.g.resources
+C:\Users\Julian\source\repos\RekenRace\RekenRace\obj\Debug\RekenRace.Properties.Resources.resources
+C:\Users\Julian\source\repos\RekenRace\RekenRace\obj\Debug\RekenRace.csproj.GenerateResource.cache
+C:\Users\Julian\source\repos\RekenRace\RekenRace\obj\Debug\RekenRace.csproj.CoreCompileInputs.cache
+C:\Users\Julian\source\repos\RekenRace\RekenRace\obj\Debug\RekenRace.exe
+C:\Users\Julian\source\repos\RekenRace\RekenRace\obj\Debug\RekenRace.pdb
+C:\Users\Julian\source\repos\RekenRace\RekenRace\obj\Debug\QuizWindow.baml
+C:\Users\Julian\source\repos\RekenRace\RekenRace\obj\Debug\QuizWindow.g.cs
